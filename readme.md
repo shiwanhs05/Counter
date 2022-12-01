@@ -1,6 +1,6 @@
 # Counter
 
-[Live Website]()
+[Live Website](https://counterr-project.netlify.app/)
 
 ## This website features a counter, in which you can increase, decrease, reset. 
 
